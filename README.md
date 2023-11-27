@@ -33,7 +33,7 @@ This Repository contains, automation of a series of calculation in a calculator 
 - open the project with build gradle
 - open the terminal and write the following command ``` gradle clean test ```
 
-Reports
+# Reports
 ![screencapture-192-168-31-108-63637-index-html-2023-11-26-10_16_40](https://github.com/Saud-Bin-Shahid/Calculator_App_Automation_Using_Appilum/assets/134185250/ae4fe7dd-0c73-488a-8914-e5e75e551ac5)
 ![screencapture-192-168-31-108-63637-index-html-2023-11-26-10_17_16](https://github.com/Saud-Bin-Shahid/Calculator_App_Automation_Using_Appilum/assets/134185250/76d83291-11e1-4f0d-83c1-43b83c892bbf)
 
