@@ -1,11 +1,11 @@
 # Calculator_App_Automation_Using_Appilum
-This Repository contains, automation of a series of calculation in a calculator app by using Appium, Selenium and TestNG.
+This Repository contains, automation of a series of calculation in a calculator app by using Appium, Selenium Webdriver and TestNG.
 
 # Tools and Technology 
 - Selenium webdriver
 - Appium
 - Android Studio
-- App Inspector
+- Appium Inspector
 - Intellij
 
 # Pre-requisities
